@@ -1,5 +1,5 @@
 # CSharp101
-*C# exercises and assignments from semester 1 and semester 2*
+*C# semester 1 and 2*
 
 ### List of Exercises/Assignments ###
 * Assignment 1 - Paint Job Calculator
